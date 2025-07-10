@@ -205,51 +205,329 @@
             ]
         },
         {
-            "category": "📻 Podcast",
+            "category": "🔬 科学 & 营养",
             "items": [
                 {
-                    "title": "小宇宙-乱翻书",
-                    "rsshub_path": "xiaoyuzhou/podcast/61358d971c5d56efe5bcb5d2"
+                    "title": "Clinical Nutrition",
+                    "url": "http://www.clinicalnutritionjournal.com/current.rss"
                 },
                 {
-                    "title": "小宇宙-张小珺Jùn｜商业访谈录",
-                    "rsshub_path": "xiaoyuzhou/podcast/626b46ea9cbbf0451cf5a962"
+                    "title": "Annual Review of Nutrition",
+                    "url": "https://www.annualreviews.org/action/showFeed?type=etoc&feed=ar-nutr-0"
                 },
                 {
-                    "title": "小宇宙-纵横四海",
-                    "rsshub_path": "xiaoyuzhou/podcast/62694abdb221dd5908417d1e"
+                    "title": "The American Journal of Clinical Nutrition",
+                    "url": "https://ajcn.nutrition.org/rss/current.xml"
                 },
                 {
-                    "title": "小宇宙-忽左忽右",
-                    "rsshub_path": "xiaoyuzhou/podcast/5e4ee557418a84a0466737b7"
+                    "title": "European Journal of Clinical Nutrition",
+                    "url": "https://www.nature.com/ejcn/current-issue/rss"
                 },
                 {
-                    "title": "小宇宙-温柔一刀",
-                    "rsshub_path": "xiaoyuzhou/podcast/61e795844675a08411f51310"
+                    "title": "Food & Function",
+                    "url": "https://feeds.rsc.org/rss/ff"
                 },
                 {
-                    "title": "小宇宙-三五环",
-                    "rsshub_path": "xiaoyuzhou/podcast/5e280fab418a84a0461faa3c"
+                    "title": "Critical Reviews in Food Science and Nutrition",
+                    "url": "https://www.tandfonline.com/action/showFeed?type=etoc&feed=rss&jc=bfsn20"
                 },
                 {
-                    "title": "小宇宙-商业就是这样",
-                    "rsshub_path": "xiaoyuzhou/podcast/6022a180ef5fdaddc30bb101"
+                    "title": "Nature News",
+                    "url": "https://www.nature.com/news/rss"
                 },
                 {
-                    "title": "小宇宙-知行小酒馆",
-                    "rsshub_path": "xiaoyuzhou/podcast/6013f9f58e2f7ee375cf4216"
+                    "title": "NEJM Journal Watch",
+                    "url": "https://www.jwatch.org/rss/mp-general-medicine.xml"
                 },
                 {
-                    "title": "小宇宙-声东击西",
-                    "rsshub_path": "xiaoyuzhou/podcast/5e2831ed418a84a046231c00"
+                    "title": "少数派",
+                    "url": "https://sspai.com/feed"
                 },
                 {
-                    "title": "小宇宙-不合时宜",
-                    "rsshub_path": "xiaoyuzhou/podcast/5e280fb8418a84a0461fd076"
+                    "title": "36氪",
+                    "url": "https://36kr.com/feed"
                 },
                 {
-                    "title": "疯投圈",
-                    "url": "https://crazy.capital/feed"
+                    "title": "丁香园",
+                    "url": "http://dxy.com/feed"
+                },
+                {
+                    "title": "知乎每日精选",
+                    "url": "https://www.zhihu.com/rss"
+                },
+                {
+                    "title": "果壳网",
+                    "url": "https://www.guokr.com/rss/"
+                }
+            ]
+        },
+        {
+            "category": "🍲 食品 & 营养",
+            "items": [
+                {
+                    "title": "tandf: Critical Reviews in Food Science and Nutrition: Table of Contents",
+                    "url": "http://www.tandfonline.com/action/showFeed?type=etoc&feed=rss&jc=bfsn20"
+                },
+                {
+                    "title": "EFSA | All updates",
+                    "url": "http://www.efsa.europa.eu/en/all/rss"
+                },
+                {
+                    "title": "Annual Review of Food Science and Technology: Most Recent Articles",
+                    "url": "http://www.annualreviews.org/action/showFeed?ui=45mu4&mi=3fndc3&ai=68da&jc=food&type=etoc&feed=rss"
+                },
+                {
+                    "title": "ScienceDirect Publication: Innovative Food Science & Emerging Technologies",
+                    "url": "http://rss.sciencedirect.com/publication/science/14668564"
+                },
+                {
+                    "title": "ACS Publications",
+                    "url": "http://feeds.feedburner.com/acs/jafcau"
+                },
+                {
+                    "title": "FDA Press Releases",
+                    "url": "http://www.fda.gov/bbs/topics/news/rssPress.xml"
+                },
+                {
+                    "title": "ScienceDirect Publication: Food Chemistry",
+                    "url": "http://rss.sciencedirect.com/publication/science/03088146"
+                },
+                {
+                    "title": "Food & Nutrition Magazine",
+                    "url": "https://foodandnutrition.org/feed/"
+                },
+                {
+                    "title": "Wiley-Online-Library: Journal of the Science of Food and Agriculture: Table of Contents",
+                    "url": "http://www3.interscience.wiley.com/rss/journal/1294"
+                },
+                {
+                    "title": "Wiley: Food Science & Nutrition: Table of Contents",
+                    "url": "http://onlinelibrary.wiley.com/rss/journal/10.1002/"
+                },
+                {
+                    "title": "ScienceDirect Publication: Current Opinion in Food Science",
+                    "url": "http://rss.sciencedirect.com/publication/science/22147993"
+                },
+                {
+                    "title": "ScienceDirect Publication: International Journal of Food Microbiology",
+                    "url": "http://rss.sciencedirect.com/publication/science/01681605"
+                },
+                {
+                    "title": "MedicineNet.com - Slideshows",
+                    "url": "http://www.medicinenet.com/rss/medicinenet_slideshows.xml"
+                },
+                {
+                    "title": "Food Safety",
+                    "url": "http://www2c.cdc.gov/podcasts/createrss.asp?c=146"
+                },
+                {
+                    "title": "Trending page - PubMed",
+                    "url": "https://rsshub.app/pubmed/trending"
+                },
+                {
+                    "title": "RSC - Food Funct. latest articles",
+                    "url": "http://feeds.rsc.org/rss/FO"
+                },
+                {
+                    "title": "Latest Results",
+                    "url": "http://link.springer.com/search.rss?facet-content-type=Article&facet-journal-id=421&channel-name=European+Journal+of+Applied+Physiology"
+                },
+                {
+                    "title": "Wiley: International Journal of Food Science & Technology: Table of Contents",
+                    "url": "http://onlinelibrary.wiley.com/rss/journal/10.1111/"
+                },
+                {
+                    "title": "ScienceDirect Publication: Food Control",
+                    "url": "http://rss.sciencedirect.com/publication/science/09567135"
+                },
+                {
+                    "title": "Wiley: Molecular Nutrition & Food Research: Table of Contents",
+                    "url": "http://onlinelibrary.wiley.com/rss/journal/10.1002/"
+                },
+                {
+                    "title": "ScienceDirect Publication: Food Hydrocolloids",
+                    "url": "http://rss.sciencedirect.com/publication/science/0268005X"
+                },
+                {
+                    "title": "ScienceDirect Publication: Journal of Functional Foods",
+                    "url": "http://rss.sciencedirect.com/publication/science/17564646"
+                },
+                {
+                    "title": "Wiley: Journal of Food Safety: Table of Contents",
+                    "url": "http://onlinelibrary.wiley.com/rss/journal/10.1111/"
+                },
+                {
+                    "title": "Wiley: Diabetes/Metabolism Research and Reviews: Table of Contents",
+                    "url": "http://onlinelibrary.wiley.com/rss/journal/10.1002/"
+                },
+                {
+                    "title": "Wiley: Journal of Food Science: Table of Contents",
+                    "url": "http://onlinelibrary.wiley.com/rss/journal/10.1111/"
+                },
+                {
+                    "title": "營養共筆",
+                    "url": "http://www.nutrinote.co/?feed=rss2"
+                },
+                {
+                    "title": "Nutrition Insight",
+                    "url": "https://resource.innovadatabase.com/rss/nhnews.xml"
+                },
+                {
+                    "title": "Precision Nutrition",
+                    "url": "http://www.precisionnutrition.com/feed"
+                },
+                {
+                    "title": "NutritionFacts.org",
+                    "url": "http://nutritionfacts.org/feed/"
+                },
+                {
+                    "title": "Thinking Nutrition",
+                    "url": "http://www.thinkingnutrition.com.au/feeds/posts/default"
+                },
+                {
+                    "title": "Unwrapped News",
+                    "url": "https://unwrapped.news/feed.xml"
+                },
+                {
+                    "title": "supplysidesj",
+                    "url": "https://www.naturalproductsinsider.com/rss.xml"
+                },
+                {
+                    "title": "Food Quality & Safety",
+                    "url": "http://www.foodqualityandsafety.com/feed/"
+                },
+                {
+                    "title": "食品网刊_食品伙伴网",
+                    "url": "http://news.foodmate.net/feed/rss.php?mid=107"
+                },
+                {
+                    "title": "食品资讯_食品伙伴网",
+                    "url": "http://news.foodmate.net/feed/rss.php?mid=21"
+                }
+            ]
+        },
+        {
+            "category": "📡 科技 & 资讯",
+            "items": [
+                {
+                    "title": "MacEnjoy-macOS破解资源分享站",
+                    "url": "https://www.macenjoy.co/blog/feed.xml"
+                },
+                {
+                    "title": "互联网数据资讯网-199IT",
+                    "url": "http://www.199it.com/feed"
+                },
+                {
+                    "title": "掘金本周最热",
+                    "url": "https://rsshub.app/juejin/trending/all/weekly"
+                },
+                {
+                    "title": "iFanr - AppSolution：智能手机更好用的秘密",
+                    "url": "https://rsshub.app/ifanr/appso"
+                },
+                {
+                    "title": "知乎日报",
+                    "url": "https://rsshub.app/zhihu/daily"
+                },
+                {
+                    "title": "小众软件官方论坛 - 最新话题",
+                    "url": "https://meta.appinn.net/latest.rss"
+                },
+                {
+                    "title": "HelloGitHub 月刊",
+                    "url": "https://hellogithub.com/rss"
+                },
+                {
+                    "title": "果壳网 科学人",
+                    "url": "https://rsshub.app/guokr/scientific"
+                },
+                {
+                    "title": "数字尾巴",
+                    "url": "http://rss.dgtle.com/"
+                },
+                {
+                    "title": "每日精品限免 / 促销应用",
+                    "url": "https://rsshub.app/appstore/xianmian"
+                },
+                {
+                    "title": "创造者日报",
+                    "url": "https://creatorsdaily.com/api/rss"
+                },
+                {
+                    "title": "极客公园",
+                    "url": "http://feeds.geekpark.net/"
+                },
+                {
+                    "title": "消费者报道",
+                    "url": "https://rsshub.app/ccreports/article"
+                },
+                {
+                    "title": "Decohack",
+                    "url": "https://decohack.com/feed/"
+                },
+                {
+                    "title": "异次元软件世界",
+                    "url": "https://feed.iplaysoft.com/"
+                },
+                {
+                    "title": "小众软件",
+                    "url": "https://feeds.appinn.com/appinns/"
+                },
+                {
+                    "title": "少数派",
+                    "url": "https://sspai.com/feed"
+                },
+                {
+                    "title": "艾瑞资讯-艾瑞网",
+                    "url": "http://www.iresearch.cn/common/rss/index.xml"
+                },
+                {
+                    "title": "知乎日报",
+                    "url": "http://feeds.feedburner.com/zhihu-daily"
+                },
+                {
+                    "title": "知乎每日精选",
+                    "url": "http://www.zhihu.com/rss"
+                },
+                {
+                    "title": "纽约时报中文网 国际纵览",
+                    "url": "http://cn.nytimes.com/rss/news.xml"
+                },
+                {
+                    "title": "品玩 - 实时要闻",
+                    "url": "https://rsshub.app/pingwest/status"
+                },
+                {
+                    "title": "cnBeta.COM RSS订阅",
+                    "url": "http://www.cnbeta.com/backend.php"
+                },
+                {
+                    "title": "知識分子 | 資訊「综合」",
+                    "url": "https://rsshub.app/zhishifenzi/news"
+                },
+                {
+                    "title": "财联社 - 股市",
+                    "url": "https://rsshub.app/cls/depth/1003"
+                },
+                {
+                    "title": "cnBeta全文版",
+                    "url": "http://feeds2.feedburner.com/cnbeta-full"
+                },
+                {
+                    "title": "虎嗅网",
+                    "url": "http://www.huxiu.com/rss/0.xml"
+                },
+                {
+                    "title": "雷峰网",
+                    "url": "http://www.leiphone.com/feed"
+                },
+                {
+                    "title": "动点科技",
+                    "url": "http://cn.technode.com/feed/"
+                },
+                {
+                    "title": "爱范儿",
+                    "url": "http://www.ifanr.com/feed"
                 }
             ]
         }
